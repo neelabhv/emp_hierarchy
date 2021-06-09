@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/emp_hierarchy/static/css/main.d5053772.chunk.css",
+    "main.js": "/emp_hierarchy/static/js/main.3020ebf0.chunk.js",
+    "main.js.map": "/emp_hierarchy/static/js/main.3020ebf0.chunk.js.map",
+    "runtime-main.js": "/emp_hierarchy/static/js/runtime-main.7b393ca9.js",
+    "runtime-main.js.map": "/emp_hierarchy/static/js/runtime-main.7b393ca9.js.map",
+    "static/js/2.3a515957.chunk.js": "/emp_hierarchy/static/js/2.3a515957.chunk.js",
+    "static/js/2.3a515957.chunk.js.map": "/emp_hierarchy/static/js/2.3a515957.chunk.js.map",
+    "static/js/3.df32b2d0.chunk.js": "/emp_hierarchy/static/js/3.df32b2d0.chunk.js",
+    "static/js/3.df32b2d0.chunk.js.map": "/emp_hierarchy/static/js/3.df32b2d0.chunk.js.map",
+    "index.html": "/emp_hierarchy/index.html",
+    "static/css/main.d5053772.chunk.css.map": "/emp_hierarchy/static/css/main.d5053772.chunk.css.map",
+    "static/js/2.3a515957.chunk.js.LICENSE.txt": "/emp_hierarchy/static/js/2.3a515957.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b393ca9.js",
+    "static/js/2.3a515957.chunk.js",
+    "static/css/main.d5053772.chunk.css",
+    "static/js/main.3020ebf0.chunk.js"
+  ]
+}
