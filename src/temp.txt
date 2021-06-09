@@ -1,0 +1,88 @@
+[
+  {
+    "Info": { "Designation": "CEO", "Emp_Name": "Daroga happu singh" },
+    "Child": [
+      {
+        "Info": { "Designation": "Head Of Staff", "Emp_Name": "Tika" },
+        "Child": [
+          {
+            "Info": { "Team": "Haggar OP", "Team_Leader": "haggar" },
+            "Child": [
+              {
+                "Info": { "Team_Member": "Tika1" }
+              },
+              {
+                "Info": { "Team_Member": "Tika2" }
+              }
+            ]
+          },
+          {
+            "Team": "Castle OP",
+            "Child": [
+              {
+                "Info": { "Team_Member": "Tika3" }
+              },
+              {
+                "Info": { "Team_Member": "Tika4" }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Info": { "Designation": "Head_Of_Engineering", "Emp_Name": "Tillu" },
+        "Child": [
+          {
+            "Info": { "Team": "Checkmate OP", "Team_Leader": "Checkmate" },
+            "Child": [
+              {
+                "Info": { "Team_Member": "Tillu1" }
+              },
+              {
+                "Info": { "Team_Member": "Tillu2" }
+              }
+            ]
+          },
+          {
+            "Info": { "Team": "Queen OP", "Team_Leader": "Queen" },
+            "Child": [
+              {
+                "Info": { "Team_Member": "Tillu3" }
+              },
+              {
+                "Info": { "Team_Member": "Tillu4" }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Info": { "Designation": "Head Of Design", "Emp_Name": "Malkhan" },
+        "Child": [
+          {
+            "Info":{"Team": "Pawn OP","Team_Leader":"Pawn"},
+            "Child": [
+              {
+                "Info":{"Emp_Name": "Malkhan1"}
+              },
+              {
+                "Info":{"Emp_Name": "Malkhan2"}
+              }
+            ]
+          },
+          {
+            "Info":{"Team": "Rook OP","Team_Leader":"Rook"},
+            "Child": [
+              {
+                "Info":{"Team_Member": "Tika3"}
+              },
+              {
+                "Info":{"Team_Member": "Tika4"}
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

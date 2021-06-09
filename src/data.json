@@ -1,0 +1,88 @@
+[
+  {
+    "Info": { "Designation": "CEO", "Emp_Name": "abc" },
+    "Child": [
+      {
+        "Info": { "Designation": "Head Of Staff", "Emp_Name": "hos" },
+        "Child": [
+          {
+            "Info": { "Team": "Team1 OP", "Team_Leader": "team1 leader" },
+            "Child": [
+              {
+                "Info": { "Team_Member": "T1member" }
+              },
+              {
+                "Info": { "Team_Member": "T1member" }
+              }
+            ]
+          },
+          {
+            "Info":{"Team": "Team2 OP", "Team_Leader":"team2 leader"},
+            "Child": [
+              {
+                "Info": { "Team_Member": "T2member" }
+              },
+              {
+                "Info": { "Team_Member": "T2member" }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Info": { "Designation": "Head_Of_Engineering", "Emp_Name": "hoe" },
+        "Child": [
+          {
+            "Info": { "Team": "team3 OP", "Team_Leader": "team3 leader" },
+            "Child": [
+              {
+                "Info": { "Team_Member": "T3member" }
+              },
+              {
+                "Info": { "Team_Member": "T3member" }
+              }
+            ]
+          },
+          {
+            "Info": { "Team": "team4 OP", "Team_Leader": "team4 leader" },
+            "Child": [
+              {
+                "Info": { "Team_Member": "T4member" }
+              },
+              {
+                "Info": { "Team_Member": "T4member" }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Info": { "Designation": "Head Of Design", "Emp_Name": "hos" },
+        "Child": [
+          {
+            "Info": { "Team": "team5 OP", "Team_Leader": "team5 leader" },
+            "Child": [
+              {
+                "Info": { "Emp_Name": "T5member" }
+              },
+              {
+                "Info": { "Emp_Name": "T5member" }
+              }
+            ]
+          },
+          {
+            "Info": { "Team": "team6 OP", "Team_Leader": "team6 leader" },
+            "Child": [
+              {
+                "Info": { "Team_Member": "T6member" }
+              },
+              {
+                "Info": { "Team_Member": "T6member" }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
